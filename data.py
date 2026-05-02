@@ -1,0 +1,2 @@
+users = {}
+chat_db = {}
